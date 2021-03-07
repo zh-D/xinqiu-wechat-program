@@ -1,7 +1,9 @@
 <!--pages/order/order.wxml-->
 <view class="container">
 
-  <input placeholder="请输入老师姓名" />
+  <cover-view class="input-wrapper">
+    <input placeholder="请输入老师姓名" />
+  </cover-view>
 
   <view>
     <view class="img-size">

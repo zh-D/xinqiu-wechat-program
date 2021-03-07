@@ -41,15 +41,12 @@
   height: 15vw;
 }
 
-.pad-t {
-  padding-top: 8vh;
-}
-
 .hanzi {
   display: block;
   margin-top: 1vh;
   font-size: 30rpx;
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .rotate270 {

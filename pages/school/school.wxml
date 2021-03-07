@@ -11,18 +11,25 @@
         <text class="hanzi">预约咨询</text>
       </view>
     </navigator>
-    <view class="img2-container">
-      <cover-image src='../../imgs/电台直播.png' />
-      <text class="hanzi">校园之声</text>
-    </view>
+
+    <navigator open-type="navigateTo" url="/pages/voice/voice">
+      <view class="img2-container">
+        <cover-image src='../../imgs/电台直播.png' />
+        <text class="hanzi">校园之声</text>
+      </view>
+    </navigator>
   </view>
   <view class="l-r right">
     <view class="img4-container">
       <cover-image class="rotate270" src='../../imgs/宇宙星球-14.png' />
     </view>
-    <view class="img2-container pad-t">
-      <cover-image src='../../imgs/老师认证1.png' />
-      <text class="hanzi">导师介绍</text>
-    </view>
+
+
+    <navigator open-type="navigateTo" url="/pages/teacher/teacher">
+      <view class="img2-container">
+        <cover-image src='../../imgs/老师认证1.png' />
+        <text class="hanzi">导师介绍</text></view>
+    </navigator>
+
   </view>
 </view>
