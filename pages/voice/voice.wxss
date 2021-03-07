@@ -1,0 +1,46 @@
+/* pages/voice/voice.wxss */
+.banner {
+  width: 30vh;
+  height: 30vh;
+}
+
+.item-img-warpper {
+  width: 20vw;
+  height: 15vw;
+}
+
+.title {
+  width: 100%;
+  padding-left: 20vw;
+  font-size: 36rpx;
+  transform: translateY(-7vw);
+}
+
+.music-menu {
+  width: 80vw;
+  font-size: 30rpx;
+}
+
+.music-item {
+  display: block;
+  height: 15vw;
+  margin-bottom: 5vh;
+}
+
+.item-img-warpper {
+  float: left;
+}
+
+.item-text-warpper {
+  float: left;
+  width: 50vw;
+  padding-left: 10vw;
+  line-height: 7.5vw;
+}
+
+.item-text-warpper>text {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

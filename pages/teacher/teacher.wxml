@@ -1,0 +1,49 @@
+<!--pages/teacher/teacher.wxml-->
+<view class="container">
+  <view class="teacher-item">
+    <view class="img-wrapper">
+      <cover-image src="../../imgs/Dispacher-1.png" />
+      <text>A老师</text>
+    </view>
+    <text class="teacher-intro">
+      毕业于XXX大学，拥有XX年教学或临床经验，擅长XXX领域，风趣幽默、善于举例
+    </text>
+  </view>
+  <view class="teacher-item">
+    <view class="img-wrapper">
+      <cover-image src="../../imgs/Dispacher-2.png" />
+      <text>B老师</text>
+    </view>
+    <text class="teacher-intro">
+      毕业于XXX大学，拥有XX年教学或临床经验，擅长XXX领域，风趣幽默、善于举例
+    </text>
+  </view>
+  <view class="teacher-item">
+    <view class="img-wrapper">
+      <cover-image src="../../imgs/Male-1.png" />
+      <text>C老师</text>
+    </view>
+    <text class="teacher-intro">
+      毕业于XXX大学，拥有XX年教学或临床经验，擅长XXX领域，风趣幽默、善于举例
+    </text>
+  </view>
+  <view class="teacher-item">
+    <view class="img-wrapper">
+      <cover-image src="../../imgs/Female-1.png" />
+      <text>D老师</text>
+    </view>
+    <text class="teacher-intro">
+      毕业于XXX大学，拥有XX年教学或临床经验，擅长XXX领域，风趣幽默、善于举例
+    </text>
+  </view>
+  <view class="teacher-item">
+    <view class="img-wrapper">
+      <cover-image src="../../imgs/Dispacher-1.png" />
+      <text>E老师</text>
+    </view>
+    <text class="teacher-intro">
+      毕业于XXX大学，拥有XX年教学或临床经验，擅长XXX领域，风趣幽默、善于举例
+    </text>
+  </view>
+
+</view>

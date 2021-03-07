@@ -1,0 +1,74 @@
+<!--pages/voice/voice.wxml-->
+<view class="container">
+  <view class="banner">
+    <cover-image src="../../imgs/电台.png" />
+  </view>
+  <view class="title">
+    <text>今日歌单来咯:</text>
+  </view>
+  <view class="music-menu">
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深asdfasdfqwerasdfasdfqwerqwerqwerqwerqwerqwer</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+    <view class="music-item">
+      <view class="item-img-warpper">
+        <cover-image src='../../imgs/音乐 (2).png' />
+      </view>
+      <view class='item-text-warpper'>
+        <text>歌名：《大鱼》</text>
+        <text>歌手：周深</text>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,29 @@
+/* pages/teacher/teacher.wxss */
+.teacher-item {
+  width: 80vw;
+  font-size: 30rpx;
+}
+
+.teacher-item:first-of-type {
+  margin-top: 5vh;
+}
+
+.img-wrapper {
+  float: left;
+  width: 30vw;
+  text-align: center;
+}
+
+.img-wrapper>text {
+  height: 10vh;
+  line-height: 10vh;
+}
+
+.teacher-intro {
+  width: 45vw;
+  height: 30vw;
+  padding-left: 5vw;
+  float: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
