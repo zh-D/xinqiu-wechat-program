@@ -7,7 +7,9 @@
     "pages/wander/wander",
     "pages/learner/learner",
     "pages/publicWelfare/publicWelfare",
-    "pages/order/order"
+    "pages/order/order",
+    "pages/voice/voice",
+    "pages/teacher/teacher"
   ],
   "window": {
     "backgroundTextStyle": "light",
